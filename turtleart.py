@@ -156,8 +156,8 @@ if randint(0,5) % 2 == 0:
     hazzy_ball()
 else:
     spikey()
-    black_hole()
+    cloud_ball()
     
 
+black_hole()
 
-cloud_ball()
